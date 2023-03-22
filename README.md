@@ -19,12 +19,12 @@ Ao concluir este projeto, você terá um bot totalmente funcional para o Discord
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:juanrelictor@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:juanrelictor@gmail.com" /></a>
   
-  <a href="#" alt="Discord">
+  <a href="https://discord.gg/wEXjNR8ud8" alt="Discord">
   <img src="https://img.shields.io/badge/-Discord-FF0000?style=flat-square&labelColor=FF0000&logo=discord&logoColor=white&link=https://discord.gg/wEXjNR8ud8" /></a>
   
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/juan_venancio0906/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/juan_venancio0906/"/></a>
 </p>  
