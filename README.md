@@ -1,8 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Bem-vindo ao seu projeto de desenvolvimento de bot para Discord utilizando as frameworks Discord.js, TypeScript e MongoDB.
+
+Este projeto tem como objetivo criar um bot para o Discord, que é uma plataforma de comunicação online extremamente popular. Ao utilizar o Discord.js, você terá acesso a uma grande variedade de recursos e funcionalidades para a criação do seu bot. Além disso, o uso do TypeScript permitirá que você tenha um código mais limpo, legível e organizado.
+
+O MongoDB é um banco de dados NoSQL altamente escalável e flexível, o que o torna uma excelente escolha para armazenar e gerenciar dados do seu bot. Com o MongoDB, você poderá armazenar informações importantes do seu bot, como configurações, dados de usuários e histórico de atividades.
+
+Ao concluir este projeto, você terá um bot totalmente funcional para o Discord, que poderá ser personalizado e expandido de acordo com as necessidades da sua comunidade. Além disso, você terá adquirido conhecimentos valiosos sobre o desenvolvimento de bots para o Discord, bem como habilidades em programação com as tecnologias Discord.js, TypeScript e MongoDB.
 </p>
 
 <p align="left">
